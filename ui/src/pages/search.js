@@ -40,7 +40,7 @@ function Search() {
 
     <Container fluid="md" className="d-grid gap-3" >
       <Row className="d-grid gap-1">
-      <a href='https://github.com/nar-repo/yelp-search'><VscGithub/></a>
+      <a href='https://github.com/nar-repo/yelp-sec'><VscGithub/></a>
       </Row>
       <Row className="d-grid gap-1">
         <input
