@@ -13,7 +13,7 @@ const Display = ({marker}) => {
   
 
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "AIzaSyBtD_LhVrr4tXcHyio8U4-kF7aE2ozMy3M",
+    googleMapsApiKey: "your api",
   });
   
 
