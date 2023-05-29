@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
-const apiKey = 'cECmX8BS24bHa18gHPJvJfsBGXeJJnSrpK0dm4QtxWvpwmTus9L2eqLLjQYcnJ6CXQORkD5Q49Yomk-j0_TEATsDRj42_bCkqDRJzj48QJUh8x8oJvEyWzQDmJ7_Y3Yx';
+const apiKey = 'your api';
 const client = yelp.client(apiKey);
 
 
