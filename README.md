@@ -1,4 +1,4 @@
 # yelp-sec
 
 
-GIF added
+Demonstration
